@@ -1,0 +1,17 @@
+[
+    {
+        "full_name" : "Şenol KARACA",
+        "country" : "Turkey",
+        "id" : 1234,
+        "email": "krc@gmail.com"
+
+    },
+
+    {
+        "full_name" : "Beyto",
+        "country" : "Turkey",
+        "id" : 1235,
+        "email": "beyto@gmail.com"
+
+    }
+]
